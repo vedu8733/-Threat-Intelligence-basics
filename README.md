@@ -51,6 +51,14 @@ While triaging a phishing alert, you discovered three suspicious indicators:
 ---
 
 ## 📸Submission
+### 🔹 IP Lookup  
+![IP Screenshot](images/Screenshot%202025-07-23%20173926.png)
+
+### 🔹 Domain Lookup  
+![Domain Screenshot](images/Screenshot%202025-07-23%20174007.png)
+
+### 🔹 Hash Analysis  
+![Hash Screenshot](images/Screenshot%202025-07-23%20174023.png)
 
 
 
